@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @trgiahuy1710
-- 👀 I’m interested in AI (Machine Learning and it inference), Game, Novel,..
+- 👀 I’m interested in AI (Machine Learning and it inference), Game, Novel, Football, ...
 - 🌱 I’m currently learning Data Science $ AI in Phenikaa University
 - 💞️ I’m looking to collaborate on: AIoT Lab Phenikaa 
 - 📫 How to reach me: trgyahuy1710@gmail.com
